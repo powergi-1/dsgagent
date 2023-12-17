@@ -1,0 +1,134 @@
+2023-12-12 15:46:27,000 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-12 15:46:27,018 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-12 15:46:28,776 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-12 15:46:28,906 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1884 ms
+2023-12-12 15:46:29,507 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-12 15:46:29,575 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11333 (http) with context path ''
+2023-12-12 15:47:01,265 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-12 15:47:01,272 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 3 ms
+2023-12-12 15:48:25,031 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-12 15:48:25,929 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-12 15:48:25,957 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 671 ms
+2023-12-12 15:48:25,975 [restartedMain] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext(refresh:624) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'infoController': Unsatisfied dependency expressed through field 'infoService': No qualifying bean of type 'com.nnb.DSGAgent.info.Service.InfoService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-12-12 15:48:25,985 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger(logMessage:82) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-12 15:48:26,022 [restartedMain] ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter(report:40) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field infoService in com.nnb.DSGAgent.info.Controller.InfoController required a bean of type 'com.nnb.DSGAgent.info.Service.InfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.nnb.DSGAgent.info.Service.InfoService' in your configuration.
+
+2023-12-12 15:48:49,349 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-12 15:48:49,383 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 425 ms
+2023-12-12 15:48:49,395 [restartedMain] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext(refresh:624) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'infoController': Unsatisfied dependency expressed through field 'infoService': No qualifying bean of type 'com.nnb.DSGAgent.info.Service.InfoService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-12-12 15:48:49,402 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger(logMessage:82) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-12 15:48:49,414 [restartedMain] ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter(report:40) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field infoService in com.nnb.DSGAgent.info.Controller.InfoController required a bean of type 'com.nnb.DSGAgent.info.Service.InfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.nnb.DSGAgent.info.Service.InfoService' in your configuration.
+
+2023-12-12 15:49:03,056 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-12 15:49:03,063 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-12 15:49:04,633 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-12 15:49:04,757 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1689 ms
+2023-12-12 15:49:04,867 [restartedMain] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext(refresh:624) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'infoController': Unsatisfied dependency expressed through field 'infoService': No qualifying bean of type 'com.nnb.DSGAgent.info.Service.InfoService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-12-12 15:49:04,894 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger(logMessage:82) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-12 15:49:04,941 [restartedMain] ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter(report:40) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field infoService in com.nnb.DSGAgent.info.Controller.InfoController required a bean of type 'com.nnb.DSGAgent.info.Service.InfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.nnb.DSGAgent.info.Service.InfoService' in your configuration.
+
+2023-12-12 15:51:34,254 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-12 15:51:34,257 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-12 15:51:35,821 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-12 15:51:35,919 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1659 ms
+2023-12-12 15:51:36,041 [restartedMain] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext(refresh:624) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'infoController': Unsatisfied dependency expressed through field 'infoService': No qualifying bean of type 'com.nnb.DSGAgent.info.Service.InfoService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-12-12 15:51:36,072 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger(logMessage:82) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-12 15:51:36,124 [restartedMain] ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter(report:40) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field infoService in com.nnb.DSGAgent.info.Controller.InfoController required a bean of type 'com.nnb.DSGAgent.info.Service.InfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.nnb.DSGAgent.info.Service.InfoService' in your configuration.
+
+2023-12-12 15:53:25,191 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-12 15:53:25,196 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-12 15:53:27,069 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-12 15:53:27,168 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1970 ms
+2023-12-12 15:53:27,802 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-12 15:53:27,871 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11333 (http) with context path ''
+2023-12-12 15:53:33,559 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-12 15:53:33,567 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 7 ms
+2023-12-12 15:57:35,867 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-12 15:57:48,991 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-12 15:57:48,995 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-12 15:57:50,684 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-12 15:57:50,790 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1792 ms
+2023-12-12 15:57:51,588 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-12 15:57:51,790 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11333 (http) with context path ''
+2023-12-12 15:57:52,897 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-12 15:57:52,900 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 2 ms
+2023-12-12 15:59:01,247 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-12 15:59:02,003 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-12 15:59:02,025 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 512 ms
+2023-12-12 15:59:02,226 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-12 15:59:02,271 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11333 (http) with context path ''
+2023-12-12 15:59:02,287 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-12 15:59:11,147 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-12 15:59:11,150 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 1 ms

@@ -1,0 +1,17 @@
+2023-12-08 13:49:15,464 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-08 13:49:15,477 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-08 13:49:17,174 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-08 13:49:17,272 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1793 ms
+2023-12-08 13:49:17,851 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-08 13:49:17,920 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11333 (http) with context path ''
+2023-12-08 13:50:34,042 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-08 13:50:34,044 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 2 ms
+2023-12-08 13:51:00,153 [RMI TCP Connection(5)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin(shutdown:159) - Application shutdown requested.
+2023-12-08 13:51:33,816 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-08 13:51:33,820 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-08 13:51:35,433 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11333 (http)
+2023-12-08 13:51:35,530 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1708 ms
+2023-12-08 13:51:36,137 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-08 13:51:36,209 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11333 (http) with context path ''
+2023-12-08 13:51:46,443 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-08 13:51:46,446 [http-nio-11333-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 2 ms

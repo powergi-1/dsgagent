@@ -1,0 +1,92 @@
+2023-12-14 12:27:34,837 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-12-14 12:27:35,460 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:27:35,466 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:27:36,124 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:27:36,147 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 671 ms
+2023-12-14 12:27:36,269 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:27:36,284 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:27:36,289 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 1.044 seconds (process running for 4560.718)
+2023-12-14 12:27:36,291 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:29:18,811 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-14 12:29:18,960 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:29:18,961 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:29:19,201 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:29:19,225 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 262 ms
+2023-12-14 12:29:19,308 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:29:19,318 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:29:19,323 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.445 seconds (process running for 4663.752)
+2023-12-14 12:29:19,324 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:30:15,208 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-14 12:30:15,368 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:30:15,369 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:30:15,619 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:30:15,637 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 265 ms
+2023-12-14 12:30:15,719 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:30:15,730 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:30:15,734 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.448 seconds (process running for 4720.164)
+2023-12-14 12:30:15,736 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:33:00,203 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-14 12:33:00,342 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:33:00,343 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:33:00,591 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:33:00,611 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 266 ms
+2023-12-14 12:33:00,698 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:33:00,714 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:33:00,720 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.449 seconds (process running for 4885.149)
+2023-12-14 12:33:00,722 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:33:05,252 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-14 12:33:05,395 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:33:05,396 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:33:05,612 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:33:05,636 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 237 ms
+2023-12-14 12:33:05,709 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:33:05,720 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:33:05,724 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.41 seconds (process running for 4890.154)
+2023-12-14 12:33:05,726 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:33:21,508 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2023-12-14 12:33:21,649 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:33:21,650 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:33:21,876 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:33:21,908 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 255 ms
+2023-12-14 12:33:22,026 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:33:22,040 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:33:22,045 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.476 seconds (process running for 4906.475)
+2023-12-14 12:33:22,047 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:35:04,416 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-14 12:35:04,554 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:35:04,555 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:35:04,786 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:35:04,808 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 250 ms
+2023-12-14 12:35:04,884 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:35:04,900 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:35:04,903 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.426 seconds (process running for 5009.333)
+2023-12-14 12:35:04,904 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:36:04,123 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-14 12:36:04,265 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:36:04,267 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:36:04,532 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:36:04,555 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 285 ms
+2023-12-14 12:36:04,657 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:36:04,672 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:36:04,676 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.485 seconds (process running for 5069.106)
+2023-12-14 12:36:04,678 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:36:54,442 [http-nio-11222-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-14 12:36:54,443 [http-nio-11222-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 1 ms
+2023-12-14 12:36:54,460 [http-nio-11222-exec-3] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver(logException:227) - Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'id' for method parameter type String is not present]
+2023-12-14 12:37:28,626 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-14 12:37:28,780 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 11960 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-14 12:37:28,781 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-14 12:37:29,042 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-14 12:37:29,066 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 282 ms
+2023-12-14 12:37:29,148 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-14 12:37:29,161 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-14 12:37:29,164 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.468 seconds (process running for 5153.595)
+2023-12-14 12:37:29,166 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-14 12:37:31,715 [http-nio-11222-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-14 12:37:31,716 [http-nio-11222-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 1 ms
+2023-12-14 12:37:31,719 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.Service.impl.CtrlServiceImpl(startServer:32) - startServer() in
+2023-12-14 12:37:31,719 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.Service.impl.CtrlServiceImpl(startServer:43) - /home/steam/steamapps/DST/start_dst.sh
+2023-12-14 12:37:31,720 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.Service.impl.CtrlServiceImpl(startServer:44) - Game Name : DST
+2023-12-14 12:37:31,720 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.Service.impl.CtrlServiceImpl(startServer:45) - User ID : user001
+2023-12-14 12:37:31,720 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.Service.impl.CtrlServiceImpl(startServer:46) - Port : 12312
+2023-12-14 12:37:31,720 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.Service.impl.CtrlServiceImpl(startServer:53) - pb.start() before

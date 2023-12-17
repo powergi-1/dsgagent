@@ -1,0 +1,41 @@
+2023-12-12 18:04:40,266 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 2600 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-12 18:04:40,312 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-12 18:04:40,437 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-12 18:04:40,446 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor(logTo:252) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-12 18:04:42,142 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-12 18:04:42,249 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1801 ms
+2023-12-12 18:04:42,883 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-12 18:04:42,963 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-12 18:04:42,979 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 3.434 seconds (process running for 6.106)
+2023-12-12 18:05:04,054 [http-nio-11222-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-12 18:05:04,059 [http-nio-11222-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 3 ms
+2023-12-12 18:05:04,126 [http-nio-11222-exec-1] INFO  com.nnb.DSGAgent.ctrl.ServiceImpl.CtrlServiceImpl(startServer:28) - startServer() in
+2023-12-12 18:06:25,515 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-12 18:06:27,928 [http-nio-11222-exec-1] INFO  com.nnb.DSGAgent.ctrl.ServiceImpl.CtrlServiceImpl(startServer:28) - startServer() in
+2023-12-12 18:06:33,024 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 2600 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-12 18:06:33,025 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-12 18:06:33,536 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-12 18:06:33,564 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 532 ms
+2023-12-12 18:06:33,771 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-12 18:06:33,810 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-12 18:06:33,818 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 0.966 seconds (process running for 116.943)
+2023-12-12 18:06:33,821 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-12 18:06:33,893 [http-nio-11222-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-12 18:06:33,895 [http-nio-11222-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 1 ms
+2023-12-12 18:06:33,899 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.ServiceImpl.CtrlServiceImpl(startServer:28) - startServer() in
+2023-12-12 18:06:51,725 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-12 18:06:59,293 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarting:50) - Starting DgsAgentApplication using Java 21.0.1 with PID 2600 (C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent\bin\main started by kwj in C:\eGovFrameDev-4.1.0-Win-64bit\workspace\DGSAgent)
+2023-12-12 18:06:59,295 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStartupProfileInfo:659) - The following 1 profile is active: "dev"
+2023-12-12 18:07:00,908 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(initialize:108) - Tomcat initialized with port 11222 (http)
+2023-12-12 18:07:00,948 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext(prepareWebApplicationContext:296) - Root WebApplicationContext: initialization completed in 1638 ms
+2023-12-12 18:07:01,209 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer(startServer:59) - LiveReload server is running on port 35729
+2023-12-12 18:07:01,236 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer(start:221) - Tomcat started on port 11222 (http) with context path ''
+2023-12-12 18:07:01,247 [http-nio-11222-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:532) - Initializing Servlet 'dispatcherServlet'
+2023-12-12 18:07:01,248 [restartedMain] INFO  com.nnb.DSGAgent.DgsAgentApplication(logStarted:56) - Started DgsAgentApplication in 2.198 seconds (process running for 144.374)
+2023-12-12 18:07:01,249 [http-nio-11222-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet(initServletBean:554) - Completed initialization in 0 ms
+2023-12-12 18:07:01,256 [http-nio-11222-exec-1] INFO  com.nnb.DSGAgent.ctrl.ServiceImpl.CtrlServiceImpl(startServer:28) - startServer() in
+2023-12-12 18:07:01,257 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener(onApplicationEvent:63) - Condition evaluation unchanged
+2023-12-12 18:07:01,257 [http-nio-11222-exec-1] INFO  com.nnb.DSGAgent.ctrl.ServiceImpl.CtrlServiceImpl(startServer:37) - /home/steam/steamapps/DST/start_dst.sh -port 12123 -max_players 18 -cluster_name Let us go!! -cluster_password 12345test -game_mode endless -token pds-g^KU_SIyU7nA-^D3/W5C9txL1MkVCESnM63mZW6YH+nMaa46blADEBRCA= -user user009
+2023-12-12 18:07:12,263 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.ServiceImpl.CtrlServiceImpl(startServer:28) - startServer() in
+2023-12-12 18:07:12,264 [http-nio-11222-exec-2] INFO  com.nnb.DSGAgent.ctrl.ServiceImpl.CtrlServiceImpl(startServer:37) - /home/steam/steamapps/DST/start_dst.sh -port 12123 -max_players 18 -cluster_name Let us go!! -cluster_password 12345test -game_mode endless -token pds-g^KU_SIyU7nA-^D3/W5C9txL1MkVCESnM63mZW6YH+nMaa46blADEBRCA= -user user009
+2023-12-12 18:53:41,241 [File Watcher] INFO  org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener(onApplicationEvent:211) - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
