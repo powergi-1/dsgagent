@@ -1,3 +1,1 @@
-토큰 : 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
-
-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
+토큰 : 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
